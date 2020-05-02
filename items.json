@@ -1,0 +1,100 @@
+{
+    "items" : [
+        {
+            "S.No." : "001" ,
+            "Name" : "Carrots" ,
+            "Quantity" : "1",
+            "Unit" : "kg" ,
+            "Department" : "Vegetables" ,
+            "Notes" :"Fresh" 
+        },
+        {
+            "S.No." : "002" ,
+            "Name" : "Onion" ,
+            "Quantity" : "2" ,
+            "Unit" : "kg" ,
+            "Department" :"Vegetables" ,
+            "Notes" : "Fresh"
+        },
+        {
+            "S.No." : "003" ,
+            "Name" : "Tomato" ,
+            "Quantity" : "1" ,
+            "Unit" :"kg" ,
+            "Department" : "Vegetables",
+            "Notes" : "Fresh"
+        },
+        {
+            "S.No." : "004" ,
+            "Name" : "Apple",
+            "Quantity" : "2" ,
+            "Unit" : "kg" ,
+            "Department" :"Fruits" ,
+            "Notes" : "Fresh"
+        },
+        {
+            "S.No." : "005",
+            "Name" : "Grapes" ,
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Fruits" ,
+            "Notes" : "Fresh"
+        },
+        {
+            "S.No." : "006" ,
+            "Name" : "Oranges",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" :"Fruits" ,
+            "Notes" : "Fresh"
+        },
+        {
+            "S.No." : "007" ,
+            "Name" : "Basmati Rice",
+            "Quantity" : "5",
+            "Unit" : "kg" ,
+            "Department" : "Pulses & Grains" ,
+            "Notes" : "Buy India Gate brand"
+        },
+        {
+            "S.No." : "008" ,
+            "Name" : "Paneer" ,
+            "Quantity" : "0.5",
+            "Unit" : "kg",
+            "Department" : "Dairy" ,
+            "Notes" : "Check the Expiry Date"
+        },
+        {
+            "S.No." : "009" ,
+            "Name" : "Milk" ,
+            "Quantity" : 2 ,
+            "Unit" : "litres" ,
+            "Department" : "Dairy" ,
+            "Notes" : "Check the Expiry Date"
+        },
+        {
+            "S.No." : "010" ,
+            "Name" : "Chickpea" ,
+            "Quantity" : "2" ,
+            "Unit" : "kg" ,
+            "Department" : "Pulses & Grains" ,
+            "Notes" : "Check the Expiry Date"
+        },
+        {
+            "S.No." : "011",
+            "Name" : "Shampoo" ,
+            "Quantity" : "600" ,
+            "Unit" : "mL" ,
+            "Department" : "Personal Care" ,
+            "Notes" : "Buy Pantene brand"
+        },
+        {
+            "S.No." : "012",
+            "Name" : "Tissue Paper",
+            "Quantity" : 2,
+            "Unit" : "boxes",
+            "Department" : "Personal Care" ,
+            "Notes" : "Not wet tissue"
+        }
+    ]
+}
